@@ -15,5 +15,3 @@ the frontend was created using ReactJS, tailwind CSS, and DaisyUI.
 3- to use and test the app, open your browser and go to "http://localhost:5173/".
 
 4- you can go to "http://localhost:5173/home" to skip the login/signup and jump to the design.
-
-for task 6, each question has a corresponding folder containing the javascript file for the required function.
